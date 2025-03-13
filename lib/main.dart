@@ -24,7 +24,7 @@ class ButtonsScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text(' Buttons'),
-        backgroundColor: Colors.blueGrey,
+        backgroundColor: Colors.lightBlue,
         centerTitle: true,
       ),
       body: Center(
